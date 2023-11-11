@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset"
 			]
 		}
 	]

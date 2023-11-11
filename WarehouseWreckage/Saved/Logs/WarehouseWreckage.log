@@ -3699,3 +3699,41 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-10.54.49:583][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
 [2023.11.11-10.54.49:590][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
 [2023.11.11-10.54.49:648][628]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.11.11-11.00.01:253][918]LogDerivedDataCache: C:/Users/azfar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 611 files in 1081 folders with total size 23 MiB.
+[2023.11.11-11.01.10:795][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.11-11.01.10:795][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.11-11.01.10:796][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_2
+[2023.11.11-11.01.10:796][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_2
+[2023.11.11-11.01.16:908][523]Cmd: TRANSACTION UNDO
+[2023.11.11-11.01.16:908][523]LogEditorTransaction: Undo Move Elements
+[2023.11.11-11.01.18:803][650]Cmd: TRANSACTION UNDO
+[2023.11.11-11.01.18:804][650]LogEditorTransaction: Undo Create Actor
+[2023.11.11-11.01.23:363][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.11-11.01.23:363][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.11.11-11.01.23:365][971]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_3
+[2023.11.11-11.01.23:365][971]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_3
+[2023.11.11-11.03.53:288][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.11-11.03.53:294][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-11.03.53:351][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.11-11.03.53:366][160]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.11.11-11.03.53:366][160]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default507FF7F047E0DB68689A9C89063A81E3.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.11.11-11.03.53:371][160]LogFileHelpers: All files are already saved.
+[2023.11.11-11.03.53:371][160]LogFileHelpers: Saving map 'Minimal_Default' took 0.039
+[2023.11.11-11.03.53:378][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.72 sec)
+[2023.11.11-11.03.53:380][160]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.11.11-11.03.53:380][160]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.11.11-11.06.21:017][501]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.11.11-11.06.21:035][501]LogActorComponent: UnregisterComponent: (/Game/StarterContent/Maps/BP_Projectile.Default__BP_Projectile_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.11.11-11.06.21:052][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.11-11.06.21:104][501]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile
+[2023.11.11-11.06.21:104][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-11.06.21:104][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-11.06.21:337][501]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.11.11-11.07.17:164][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-11.07.17:191][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-11.07.17:218][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-11.07.17:250][605]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/BP_Projectile
+[2023.11.11-11.07.17:251][605]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/BP_ProjectileB65B8C0C4FB5C9699686ADA986FB3E49.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset'
+[2023.11.11-11.07.17:262][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.82 sec)
+[2023.11.11-11.07.17:262][605]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.11.11-11.07.17:262][605]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Maps/BP_Projectile.BP_Projectile
