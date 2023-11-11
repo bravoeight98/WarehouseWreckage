@@ -1701,3 +1701,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-07.20.14:036][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2023.11.11-07.20.14:042][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
 [2023.11.11-07.20.14:113][724]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.11.11-07.23.21:720][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-07.23.21:776][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.11-07.23.21:790][788]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.11.11-07.23.21:790][788]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default8A9AB0B942604D06C9F424B23C4FFFFD.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.11.11-07.23.21:796][788]LogFileHelpers: All files are already saved.
+[2023.11.11-07.23.21:796][788]LogFileHelpers: Saving map 'Minimal_Default' took 0.039
+[2023.11.11-07.23.21:804][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 556 ms)
+[2023.11.11-07.23.21:806][788]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.11.11-07.23.21:806][788]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
