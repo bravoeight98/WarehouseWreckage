@@ -1410,3 +1410,45 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-06.58.10:184][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.054044 secs
 [2023.11.11-06.58.10:195][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.11.11-06.58.10:252][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.11.11-07.00.01:231][708]LogDerivedDataCache: C:/Users/azfar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.044 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 365 files in 675 folders with total size 12 MiB.
+[2023.11.11-07.00.03:378][737]LogViewport: Scene viewport resized to 1014x580, mode Windowed.
+[2023.11.11-07.00.06:716][816]LogViewport: Scene viewport resized to 1526x892, mode Windowed.
+[2023.11.11-07.00.44:440][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.11-07.00.44:538][838]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Starter_Wind05...
+[2023.11.11-07.00.44:538][838]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Starter_Birds01...
+[2023.11.11-07.00.44:538][838]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Starter_Wind06...
+[2023.11.11-07.00.44:540][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-07.00.44:546][838]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.11.11-07.00.44:547][838]Cmd: MAP LOAD FILE="E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.11-07.00.44:547][838]LightingResults: New page: Lighting Build
+[2023.11.11-07.00.44:547][838]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2023.11.11-07.00.44:573][838]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-07.00.44:573][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-07.00.44:575][838]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2023.11.11-07.00.44:575][838]MapCheck: New page: Map Check
+[2023.11.11-07.00.44:575][838]LightingResults: New page: Lighting Build
+[2023.11.11-07.00.44:579][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.11-07.00.44:595][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.11-07.00.44:597][838]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound needed to have new flag set bUsedWithNanite !
+[2023.11.11-07.00.44:663][838]MapCheck: Warning: M_TableRound Material /Game/StarterContent/Props/Materials/M_TableRound.M_TableRound was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.11-07.00.44:676][838]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Starter_Wind05.Starter_Wind05: Chunk0=28 bytes, Chunk1-N=256k
+[2023.11.11-07.00.44:678][838]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Starter_Birds01.Starter_Birds01: Chunk0=28 bytes, Chunk1-N=256k
+[2023.11.11-07.00.44:680][838]LogAudio: Display: Chunk sizes for SoundWave /Game/StarterContent/Audio/Starter_Wind06.Starter_Wind06: Chunk0=28 bytes, Chunk1-N=256k
+[2023.11.11-07.00.44:708][838]LogMaterial: Display: Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair needed to have new flag set bUsedWithNanite !
+[2023.11.11-07.00.44:739][838]MapCheck: Warning: M_Chair Material /Game/StarterContent/Props/Materials/M_Chair.M_Chair was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.11.11-07.00.44:740][838]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.11.11-07.00.44:742][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.11-07.00.44:752][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.11-07.00.44:757][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.11-07.00.44:771][838]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.11.11-07.00.44:771][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.11-07.00.44:771][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.11-07.00.44:771][838]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.11.11-07.00.44:802][838]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.11-07.00.44:807][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.11-07.00.44:809][838]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.11-07.00.44:809][838]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.091ms to complete.
+[2023.11.11-07.00.45:362][839]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.11.11-07.00.45:462][839]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.11.11-07.00.50:974][ 72]LogSlate: Window 'Message Log' being destroyed
+[2023.11.11-07.00.50:989][ 72]LogSlate: Window 'Message Log' being destroyed
