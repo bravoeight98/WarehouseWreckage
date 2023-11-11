@@ -1569,3 +1569,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-07.15.07:682][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 327 ms)
 [2023.11.11-07.15.07:684][993]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.11.11-07.15.07:684][993]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.11.11-07.16.16:923][727]LogEditorTransaction: Undo Create Pin Link
+[2023.11.11-07.16.20:011][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-07.16.20:059][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.11-07.16.20:073][ 55]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.11.11-07.16.20:073][ 55]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default3D626C2549D116022D4BBBB40A3F4A51.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.11.11-07.16.20:078][ 55]LogFileHelpers: All files are already saved.
+[2023.11.11-07.16.20:078][ 55]LogFileHelpers: Saving map 'Minimal_Default' took 0.038
+[2023.11.11-07.16.20:086][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 401 ms)
+[2023.11.11-07.16.20:087][ 55]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.11.11-07.16.20:087][ 55]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
