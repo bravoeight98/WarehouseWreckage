@@ -1551,3 +1551,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-07.04.19:175][592]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
 [2023.11.11-07.04.19:983][592]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2023.11.11-07.05.21:702][799]LogSlate: Window 'Minimal_Default' being destroyed
+[2023.11.11-07.08.35:837][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-07.08.35:902][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.11-07.08.35:916][814]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.11.11-07.08.35:916][814]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default4B3E83FA46704F60991F74BBE35C6D3D.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.11.11-07.08.35:922][814]LogFileHelpers: All files are already saved.
+[2023.11.11-07.08.35:922][814]LogFileHelpers: Saving map 'Minimal_Default' took 0.044
+[2023.11.11-07.08.35:929][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 256 ms)
+[2023.11.11-07.08.35:931][814]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.11.11-07.08.35:931][814]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
