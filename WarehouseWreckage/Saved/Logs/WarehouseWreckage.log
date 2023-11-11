@@ -2631,3 +2631,32 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.11-10.02.35:408][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 732 ms)
 [2023.11.11-10.02.35:410][599]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.11.11-10.02.35:410][599]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.11.11-10.19.31:638][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.11-10.19.31:654][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2
+[2023.11.11-10.19.31:654][319]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default_Auto24A14F538458496D78F731784392B651B.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2023.11.11-10.19.31:655][319]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap is in the /Temp path, will not scan.
+[2023.11.11-10.19.31:655][319]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2 is in the /Temp path, will not scan.
+[2023.11.11-10.19.31:655][319]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2 is in the /Temp path, will not scan.
+[2023.11.11-10.19.31:655][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2023.11.11-10.19.31:655][319]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2023.11.11-10.21.13:530][546]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.11.11-10.21.13:530][546]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.11.11-10.22.07:639][ 39]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.11.11-10.29.32:089][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.11-10.29.32:106][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3
+[2023.11.11-10.29.32:106][172]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default_Auto341F8F3E94C06F88D3996869031F99B40.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2023.11.11-10.29.32:107][172]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap is in the /Temp path, will not scan.
+[2023.11.11-10.29.32:107][172]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3 is in the /Temp path, will not scan.
+[2023.11.11-10.29.32:107][172]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3 is in the /Temp path, will not scan.
+[2023.11.11-10.29.32:107][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2023.11.11-10.29.32:107][172]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2023.11.11-10.31.26:767][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.11-10.31.26:773][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.11-10.31.26:820][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.11-10.31.26:834][922]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2023.11.11-10.31.26:836][922]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Minimal_Default6B81DD9E43C5BF6190493298741BB471.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.11.11-10.31.26:841][922]LogFileHelpers: All files are already saved.
+[2023.11.11-10.31.26:841][922]LogFileHelpers: Saving map 'Minimal_Default' took 0.040
+[2023.11.11-10.31.26:847][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 806 ms)
+[2023.11.11-10.31.26:848][922]AssetCheck: New page: Asset Save: Minimal_Default
+[2023.11.11-10.31.26:848][922]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
