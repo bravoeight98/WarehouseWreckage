@@ -7,7 +7,10 @@
 			"files": [
 				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
-				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset"
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/Main.umap",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/BP_Barrel.uasset"
 			]
 		}
 	]
