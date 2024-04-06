@@ -1145,3 +1145,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.06-19.24.59:586][225]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.04.06-19.24.59:586][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.063ms to complete.
 [2024.04.06-19.26.26:962][560]LogDerivedDataCache: C:/Users/azfar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.229 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1275 files in 2197 folders with total size 89 MiB.
+[2024.04.06-19.28.04:638][137]LogSlate: Took 0.004535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.06-19.28.04:854][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.06-19.28.05:495][210]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Main.Main:PersistentLevel.Main
+[2024.04.06-19.28.05:500][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.06-19.28.05:500][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.06-19.28.05:512][210]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.06-19.28.07:009][210]LogSlate: Took 0.005689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.06-19.28.18:296][525]BlueprintLog: New page: Collapse to Function
+[2024.04.06-19.34.59:828][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.06-19.34.59:832][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.06-19.34.59:844][516]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006995 seconds
+[2024.04.06-19.34.59:898][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2024.04.06-19.34.59:898][516]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Main_Auto19B34AA224317D325D7D58988FB875242.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap'
+[2024.04.06-19.34.59:901][516]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap is in the /Temp path, will not scan.
+[2024.04.06-19.34.59:901][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.094
+[2024.04.06-19.34.59:901][516]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2024.04.06-19.45.00:243][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.06-19.45.00:245][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.04.06-19.45.00:287][ 94]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto2
+[2024.04.06-19.45.00:287][ 94]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Main_Auto24897C34C4746CF6874700EA10AFF21C0.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap'
+[2024.04.06-19.45.00:288][ 94]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap is in the /Temp path, will not scan.
+[2024.04.06-19.45.00:288][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.058
+[2024.04.06-19.45.00:288][ 94]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2024.04.06-20.03.25:863][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.06-20.03.25:895][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.06-20.03.25:937][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.04.06-20.03.25:975][186]LogSavePackage: Moving output files for package: /Game/Main
+[2024.04.06-20.03.25:975][186]LogSavePackage: Moving 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Saved/Main43C50E6D49CA6B74E9606994A94219C9.tmp' to 'E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/WarehouseWreckage/Content/Main.umap'
+[2024.04.06-20.03.25:982][186]LogFileHelpers: Saving map 'Main' took 0.087
+[2024.04.06-20.03.25:990][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms
+[2024.04.06-20.03.25:993][186]AssetCheck: New page: Asset Save: Main
+[2024.04.06-20.03.25:993][186]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
