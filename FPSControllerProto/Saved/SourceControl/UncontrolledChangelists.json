@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/PickUpSystem/BP_Item.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/axe.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/Textures/axe_AO.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/PickUpSystem/BPI_Items.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/VM/OUUQH07Z4AXTU4S2OUQ5QI.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/axe1.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/axe_Albedo.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/axe_Metallic.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/axe_Normal.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/3D_Assets/Lumberjack_Axe/axe_Roughness.uasset",
+				"E:/UnrealProjects/WarehouseWreckage/WarehouseWreckage/FPSControllerProto/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Q7/CC4SY45RXXB2HZR9VQFDME.uasset"
+			]
+		}
+	]
+}
